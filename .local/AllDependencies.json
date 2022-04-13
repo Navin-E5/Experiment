@@ -5096,9 +5096,9 @@
     "restore": {
       "projectUniqueName": "TestProject",
       "projectName": "TestProject",
-      "projectPath": "C:\\Users\\admin\\Documents\\GitHub\\Experiment\\.local",
+      "projectPath": "C:\\Users\\admin\\Documents\\UiPath\\Git_vendor\\Experiment\\.local",
       "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\admin\\Documents\\GitHub\\Experiment\\.local"
+      "outputPath": "C:\\Users\\admin\\Documents\\UiPath\\Git_vendor\\Experiment\\.local"
     },
     "frameworks": {
       "net461": {
